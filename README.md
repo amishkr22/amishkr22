@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amish Kumar Nayar</h1>
+<h1 align="center">Hey It's Amish Kumar Nayar</h1>
 <h3 align="center">A passionated AI and ML Enthusiast from India</h3>
 <div align="center">
   <img alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgwbjBpMHhhZTFkZzg2MW55cjhpMHNpYTdpeDZxb3lleXFnZmUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
