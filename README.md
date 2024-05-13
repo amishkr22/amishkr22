@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing, Fine Tuning**
 
-- 💬 Ask me about **Machine Learning Algorithms, Langchain, LLMs**
+- 💬 Ask me about **Machine Learning Algorithms, Langchain, LLMs, Vector Database**
 
 - 📫 How to reach me **amishkumar1028@gmail.com**
 
