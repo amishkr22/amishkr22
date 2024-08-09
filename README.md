@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amishkr22" alt="amishkr22" /></a> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing, Fine Tuning**
+- 🌱 I’m currently learning **Natural Language Processing**
 
-- 💬 Ask me about **Machine Learning Algorithms, Langchain, LLMs, Vector Database**
+- 💬 Ask me about **Machine Learning Algorithms, Langchain, LLMs, Vector Database, , Fine Tuning**
 
 - 📫 How to reach me **amishkumar1028@gmail.com**
 
